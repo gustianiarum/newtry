@@ -1,10 +1,10 @@
-package com.rumi.newtry;
+package com.rumi.tryapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NewtryApplicationTests {
+class TryappApplicationTests {
 
 	@Test
 	void contextLoads() {

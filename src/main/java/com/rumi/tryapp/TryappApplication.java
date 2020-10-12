@@ -1,13 +1,13 @@
-package com.rumi.newtry;
+package com.rumi.tryapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NewtryApplication {
+public class TryappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NewtryApplication.class, args);
+		SpringApplication.run(TryappApplication.class, args);
 	}
 
 }
